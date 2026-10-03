@@ -1,0 +1,10 @@
+* text=auto
+
+# Roblox binary models
+*.rbxm  binary
+*.rbxl  binary
+
+# Generated / data files: keep out of diffs and language stats
+*.rbxmx -text linguist-generated -diff
+*.npz   binary
+weights.lua linguist-generated -diff

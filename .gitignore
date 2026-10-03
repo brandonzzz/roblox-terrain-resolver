@@ -1,0 +1,15 @@
+# Smooth Terrain exports (large; generate your own via TerrainConverter.ExportSmooth)
+smooth_terrain/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
